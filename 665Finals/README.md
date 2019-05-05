@@ -4,7 +4,7 @@
 
 2. [Randomization](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals)
 
-3. [Graph](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals)
+3. [Graph](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals/graph.md)
 
 4. [Breadth-First Search](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals)
 
