@@ -67,7 +67,7 @@
 
    *A digraph admits a topological ordering iff it is a DAG*
 
-9. Algorithm for Topological Sorting: Goodrich-Tamassia
+9. Algorithm for Topological Sorting: Goodrich-Tamassia: Running time $O(n+m)$
 
    ```java
    Algorithm TopologicalSort(G)
@@ -79,8 +79,6 @@
            n = n - 1
            Remove v from H
    ```
-
-        Running time $O(n+m)$
 
 10. Topological Sort using DFS
 
