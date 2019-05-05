@@ -12,7 +12,7 @@
 
 6. [Biconnectivity](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals/biconn.md)
 
-7. [Directed Graphs](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals)
+7. [Directed Graphs](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals/graph_dir.md)
 
 8. [Minimum Spanning Trees](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals)
 

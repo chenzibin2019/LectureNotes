@@ -99,7 +99,7 @@
            if(e.getLabel() == UNEXPLORED)
                w = opposite(v,e);
                if w.getLabel() == UNEXPLORED:
-                   setLabel(e,DISCOVERY);
+                   setLabel(e,DISCOVERY);
                    S.push(e)
                    pathDFS(G,w,z)
                    S.pop()
