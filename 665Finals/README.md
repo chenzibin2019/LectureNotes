@@ -8,7 +8,7 @@
 
 4. [Depth-First Search](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals/dfs.md)
 
-5. [Breadth-First Search](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals)
+5. [Breadth-First Search](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals/bfs.md)
 
 6. [Biconnectivity](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals)
 
