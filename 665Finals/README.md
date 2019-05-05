@@ -10,7 +10,7 @@
 
 5. [Breadth-First Search](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals/bfs.md)
 
-6. [Biconnectivity](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals)
+6. [Biconnectivity](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals/biconn.md)
 
 7. [Directed Graphs](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals)
 
