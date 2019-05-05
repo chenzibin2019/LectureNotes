@@ -62,7 +62,7 @@ $$
 
    Second case: w\[k] < w. Then item k [can] be in the solution, and we choose the case that has the greater value.
 
-8. How to know which items are carried?
+3. How to know which items are carried?
 
 $$
 Let\ i=n,k=W \\
