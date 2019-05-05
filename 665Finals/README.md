@@ -4,13 +4,13 @@
 
 2. [Randomization](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals)
 
-3. [Breadth-First Search](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals)
+3. [Graph](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals)
 
-4. [Biconnectivity](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals)
+4. [Breadth-First Search](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals)
 
-5. [Depth-First Search](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals)
+5. [Biconnectivity](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals)
 
-6. [Graph](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals)
+6. [Depth-First Search](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals)
 
 7. [Directed Graphs](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals)
 
