@@ -2,7 +2,7 @@
 
 1. [Dynamic Programming](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals/dynamic.md)
 
-2. [Randomization](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals)
+2. [Randomization](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals/random.md)
 
 3. [Graph](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals/graph.md)
 
