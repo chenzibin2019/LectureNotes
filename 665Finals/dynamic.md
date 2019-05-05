@@ -2,7 +2,9 @@
 
 1. A Characterizing Equation 
 
-![](http://latex.codecogs.com/gif.latex?\\N_{i,j} = \min \limits_{i\leq k<j} {N_{i,k} + N_{k+1,j}+d_id_{k+1}d_{j+1}})
+$$
+N_{i,j} = \min \limits_{i\leq k<j} {N_{i,k} + N_{k+1,j}+d_id_{k+1}d_{j+1}}
+$$
 
 2. Solve the problems in subproblems overlap.
 
