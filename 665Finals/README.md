@@ -6,11 +6,11 @@
 
 3. [Graph](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals/graph.md)
 
-4. [Breadth-First Search](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals)
+4. [Depth-First Search](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals)
 
-5. [Biconnectivity](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals)
+5. [Breadth-First Search](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals)
 
-6. [Depth-First Search](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals)
+6. [Biconnectivity](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals)
 
 7. [Directed Graphs](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals)
 
