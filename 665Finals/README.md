@@ -6,7 +6,7 @@
 
 3. [Graph](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals/graph.md)
 
-4. [Depth-First Search](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals)
+4. [Depth-First Search](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals/dfs.md)
 
 5. [Breadth-First Search](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals)
 
