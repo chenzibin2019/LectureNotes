@@ -1,6 +1,8 @@
 ## Dynamic Programming
 
-1. A Characterizing Equation 
+> Some equations are not supported, PDF version [here](https://people.umass.edu/zibinchen/pdf/dynamic.pdf)
+
+1. A Characterizing Equation 
 
 $$
 N_{i,j} = \min \limits_{i\leq k<j} {N_{i,k} + N_{k+1,j}+d_id_{k+1}d_{j+1}}
@@ -50,9 +52,9 @@ $$
 
    It means, that the best subset of S\[k] that has total weight w is one of the two:
 
-   1. the best subset of S\[k-1] that has total weight w, or
+1. the best subset of S\[k-1] that has total weight w, or
 
-   2. the best subset of S\[k-1] that has total weight w-w\[k] plus the item k.
+2. the best subset of S\[k-1] that has total weight w-w\[k] plus the item k.
 
    The best subset of S\[k] that has total weight wither contains item k or not.
 
