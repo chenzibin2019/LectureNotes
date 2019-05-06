@@ -14,7 +14,7 @@
 
 7. [Directed Graphs](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals/graph_dir.md)
 
-8. [Minimum Spanning Trees](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals)
+8. [Minimum Spanning Trees](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals/mst.md)
 
 9. [Shortest Path](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals)
 
