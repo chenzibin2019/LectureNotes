@@ -16,7 +16,7 @@
 
 8. [Minimum Spanning Trees](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals/mst.md)
 
-9. [Shortest Path](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals)
+9. [Shortest Path](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals/shortestpath.md)
 
 10. [Maximum Flow](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals)
 
