@@ -18,6 +18,6 @@
 
 9. [Shortest Path](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals/shortestpath.md)
 
-10. [Maximum Flow](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals)
+10. [Maximum Flow](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals/maxflow.md)
 
 11. [NPComplete](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals)
