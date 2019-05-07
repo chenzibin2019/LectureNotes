@@ -20,4 +20,4 @@
 
 10. [Maximum Flow](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals/maxflow.md)
 
-11. [NPComplete](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals)
+11. [P-NP-NPC-NPH](https://github.com/chenzibin2019/LectureNotes/tree/master/665Finals/np.md)
