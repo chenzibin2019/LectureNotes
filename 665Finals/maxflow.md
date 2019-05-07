@@ -6,9 +6,19 @@
 
    A flow f for network N is an assignment of an integer value f(e) to each edge e that satisfies the following properties:
 
-   Capacity Rule: For each edge e, $0<f(e)<c(e)$
-
-   Conservation Rule: For each vertex, $v \ne s,t: \sum \limits_{e \in E^-(v)} f(e) = \sum \limits_{e \in E^+(v)} f(e)$, where $E^+(v)$ and $E^-(v)$ are incoming and outgoing edges of v.
+   Capacity Rule: For each edge e, 
+   $$
+   0<f(e)<c(e) 
+   $$
+   Conservation Rule: For each vertex, 
+   $$
+   v \ne s,t: \sum \limits{e \in E^-(v)} f(e) = \sum \limits{e \in E^+(v)} f(e)
+   $$
+    where 
+   $$
+   E^+(v)\ and\ E^-(v)
+   $$
+   are incoming and outgoing edges of v.
 
 2. Maximum Flow
 
@@ -38,11 +48,18 @@
 
    - Let $\pi$ to be a path from s to t
 
-     - The residual capacity $\Delta _f (\pi )$ of $\pi $ is the smallest of the residual capacities of the edge $\pi $.
+     - The residual capacity 
+       $$
+       \Delta _f (\pi )
+       $$
+        of pi is the smallest of the residual capacities of the edge pi.
 
-   - A path $\pi$ from s to t is and augmenting path if $\Delta _f (\pi ) > 0$
+   - A path pi from s to t is and augmenting path if 
+     $$
+     \Delta _f (\pi ) > 0
+     $$
 
-   - Let $\pi$ be an augmenting path for flow f in network N. There exists a flow f' for N of value
+   - Let pi be an augmenting path for flow f in network N. There exists a flow f' for N of value
 
 $$
 |f'| = |f| + \Delta _f (\pi)
@@ -75,11 +92,15 @@ $$
 
    Analyse: 
 
-   - In worst case, Fork-Fulkerson's Algorithm performs $|f^*|$ flow augumentations, where $f^*$ is a maximum flow 
+   - In worst case, Fork-Fulkerson's Algorithm performs |f\*| flow augumentations, where f* is a maximum flow 
 
-   - Finding an augmenting path and the augmenting the flow takes $O(n+m)$ times.
+   - Finding an augmenting path and the augmenting the flow takes O(n+m) times.
 
-   - The ForkFulkerson's Algorithm takes $O(|f^*|(n+m))$ times.
+   - The ForkFulkerson's Algorithm takes 
+     $$
+     O(|f^*|(n+m))
+     $$
+     times.
 
 6. Edmonds-Karp Algorithm 
 
@@ -93,7 +114,10 @@ $$
 
      - This can be done in $O(m)$ by a modified BFS
 
-   - Complexity $O(nm^2)$
+   - Complexity 
+     $$
+     O(nm^2)
+     $$
 
    - The number of flow augmentations in Edmonds-Karp Algorithm for a network with n vertices and m edges is no more than mn
 
@@ -107,7 +131,11 @@ $$
 
    - A matching in G is a set of edges (subset of E) that have no endpoints in common. A matching in bipartite graph is called bipartite matching
 
-   - Reduction to Max Flow Problem. Add a source and sink...( $f(e) = 1 \Longrightarrow e \in M$)
+   - Reduction to Max Flow Problem. Add a source and sink...( 
+     $$
+     f(e) = 1 \Longrightarrow e \in M
+     $$
+     )
 
      - The flow through e is o or 1 (cap == 1)
 
